@@ -1,4 +1,4 @@
-The project contains a cloud function which send an NDA document to the email. Function uses the docusign_lib library based on DocuSign API example.
+The project contains a cloud function which sends an NDA document to the email. Function uses the docusign_lib library based on DocuSign API example.
 To deploy:
 ```
 terraform init
